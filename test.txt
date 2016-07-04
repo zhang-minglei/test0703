@@ -3,3 +3,12 @@
 sdgsdgdsgds
 
 4555555555555555
+
+if(i<0)
+{
+  ss=qerqw;
+}
+else
+{
+  ss=sdfs;
+}
