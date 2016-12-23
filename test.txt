@@ -6,9 +6,9 @@ sdgsdgdsgds
 
 if(i<34)
 {
-  ss=qerqw;
+  aa=sjfsl12;
 }
-else
+if
 {
-  ss=sdfs;
+  ss=www;
 }
